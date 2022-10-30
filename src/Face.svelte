@@ -3,7 +3,7 @@
     export let size = 1;
     
     const faceList = ['🤬', '😡', '😭', '🙁', '😕',  '😐', '🙂', '😀', '😄', '😊', '😘'];
-    $: index = happyScore + 5;
+    $: index = happyScore + 4;
 </script>
 
 <div style="font-size: {size}em">
