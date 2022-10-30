@@ -10,11 +10,12 @@
 		height: 100%;
 	}
     header {
+		padding: 80px;
 		position: absolute;
-		height: 100px;
-		width: 100%;
+		height: 50px;
+		/* width: 100%; */
 		color: white;
-		font-size: 5em;
+		font-size: 3em;
 		overflow: hidden;
 		display: flex;
 		justify-content: space-between;
