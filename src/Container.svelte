@@ -5,7 +5,7 @@
 <style>
 	.Container {
 		height: 100vh;
-		width: 100vw;
+		width: "auto";
 		font-family: 'Nunito', sans-serif;
 		border: solid  #6679a4 20px;
 		padding: 20px;
